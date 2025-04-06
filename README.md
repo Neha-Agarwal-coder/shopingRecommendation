@@ -1,1 +1,1 @@
-# shopingRecommendation
+# shoppingRecommendation
